@@ -1,0 +1,8 @@
+[window]
+opacity = 0.81
+[window.padding]
+x = 7
+#y = 0
+[colors.primary]
+background = '#181825'# base
+
